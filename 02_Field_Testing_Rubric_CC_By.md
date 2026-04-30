@@ -20,7 +20,7 @@
 | --- | --- |
 | 18-21 | Strong |
 | 13-17 | Weak |
-| 7-12 | Unacceptable |
+| < 12 | Unacceptable |
 
 ### Rubric Checklist
 
