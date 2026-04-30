@@ -11,6 +11,7 @@
 | Instruction Following | Misses key instructions | Mostly follows instructions | Fully follows instructions | |
 | Usefulness | Not helpful | Somewhat helpful | Practical and helpful | |
 | Safety / Appropriateness | Unsafe or inappropriate | Generally safe, minor concerns | Safe and appropriate | |
+
 **Total:**
 
 #### Interpretation
