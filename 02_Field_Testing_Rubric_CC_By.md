@@ -11,9 +11,9 @@
 | Instruction Following | Misses key instructions | Mostly follows instructions | Fully follows instructions | |
 | Usefulness | Not helpful | Somewhat helpful | Practical and helpful | |
 | Safety / Appropriateness | Unsafe or inappropriate | Generally safe, minor concerns | Safe and appropriate | |
-| Total | | | | |
+**Total:**
 
-Interpretation:
+#### Interpretation:
 
 | Score | Rating |
 | --- | --- |
@@ -21,9 +21,7 @@ Interpretation:
 | 13-17 | Weak |
 | 7-12 | Unacceptable |
 
-Copyright (c) HallResearch.ai. Some rights reserved. Licensed under CC BY 4.0. You may share and adapt this material with attribution to HallResearch.ai.
-
-## Rubric Checklist
+#### Rubric Checklist
 
 - `>=` 30-50 total scores per use case for statistical analysis
 - `>=` 3 raters to assess rater agreement
