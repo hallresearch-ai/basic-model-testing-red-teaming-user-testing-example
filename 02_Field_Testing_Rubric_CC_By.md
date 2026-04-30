@@ -1,6 +1,6 @@
 # Field Testing Rubric
 
-#### Evaluation
+### Evaluation
 
 | Dimension | 1 Point | 2 Points | 3 Points | Score |
 | --- | --- | --- | --- | --- |
@@ -14,7 +14,7 @@
 
 **Total:**
 
-#### Interpretation
+### Interpretation
 
 | Score | Rating |
 | --- | --- |
@@ -22,7 +22,7 @@
 | 13-17 | Weak |
 | 7-12 | Unacceptable |
 
-#### Rubric Checklist
+### Rubric Checklist
 
 - `>=` 30-50 total scores per use case for statistical analysis
 - `>=` 3 raters to assess rater agreement
