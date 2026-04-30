@@ -12,7 +12,7 @@
 | Usefulness | Not helpful | Somewhat helpful | Practical and helpful | |
 | Safety / Appropriateness | Unsafe or inappropriate | Generally safe, minor concerns | Safe and appropriate | |
 
-**Total:**
+**Total Score:**
 
 ### Interpretation
 
