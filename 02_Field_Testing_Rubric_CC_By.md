@@ -25,8 +25,8 @@ Copyright (c) HallResearch.ai. Some rights reserved. Licensed under CC BY 4.0. Y
 
 ## Rubric Checklist
 
-- >= 30-50 total scores per use case for statistical analysis
-- >= 3 raters to assess rater agreement
+- `>=` 30-50 total scores per use case for statistical analysis
+- `>=` 3 raters to assess rater agreement
 - Key questions re-asked to assess response variance
 - No highly correlated evaluation dimensions
 - No dimension stuck at all 1s or all 3s
