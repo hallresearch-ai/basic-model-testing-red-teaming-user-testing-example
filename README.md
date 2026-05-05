@@ -11,9 +11,9 @@ NIST. *Assessing Risks and Impacts of AI (ARIA): ARIA 0.1: Pilot Evaluation Repo
 
 ## Contents
 
-- `02_Model_Testing_Simple_Code_Apache2.ipynb`: a toy multiple-choice model testing benchmark.
-- `02_Red_Teaming_Simple_Code_Apache2.ipynb`: a simple red-teaming prompt example.
-- `02_Field_Testing_Rubric_CC_By.md`: a basic user-/field-testing rubric for human evaluation.
+- `Model_Testing_Simple_Code_Apache2.ipynb`: a toy multiple-choice model testing benchmark.
+- `Red_Teaming_Simple_Code_Apache2.ipynb`: a simple red-teaming prompt example.
+- `Field_Testing_Rubric_CC_By.md`: a basic user-/field-testing rubric for human evaluation.
 - `requirements.txt`: Python dependencies for running the notebooks.
 
 
@@ -49,7 +49,7 @@ Start Jupyter:
 jupyter notebook
 ```
 
-Then open `02_Model_Testing_Simple_Code_Apache2.ipynb` or `02_Red_Teaming_Simple_Code_Apache2.ipynb` and run the cells in order.
+Then open `Model_Testing_Simple_Code_Apache2.ipynb` or `Red_Teaming_Simple_Code_Apache2.ipynb` and run the cells in order.
 
 
 ## Supplying an OpenAI API Key
