@@ -12,7 +12,8 @@ NIST. *Assessing Risks and Impacts of AI (ARIA): ARIA 0.1: Pilot Evaluation Repo
 ## Contents
 
 - `Model_Testing_Simple_Code_Apache2.ipynb`: a toy multiple-choice model testing benchmark.
-- `Red_Teaming_Simple_Code_Apache2.ipynb`: a simple red-teaming prompt example.
+- `Red_Teaming_Simple_Code_Apache2.ipynb`: a simple red-teaming prompt example for evaluating validity and reliability.
+- `Red_Teaming_Multitasking_Counterfactuals_Code_Apache2.ipynb`: prompt examples for evaluating fairness and bias management, making use of BISG.
 - `Field_Testing_Rubric_CC_By.md`: a basic user-/field-testing rubric for human evaluation.
 - `requirements.txt`: Python dependencies for running the notebooks.
 
