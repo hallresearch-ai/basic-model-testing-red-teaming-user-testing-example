@@ -50,7 +50,10 @@ Start Jupyter:
 jupyter notebook
 ```
 
-Then open `Model_Testing_Simple_Code_Apache2.ipynb` or `Red_Teaming_Simple_Code_Apache2.ipynb` and run the cells in order.
+Then open `Model_Testing_Simple_Code_Apache2.ipynb`,
+`Red_Teaming_Simple_Code_Apache2.ipynb`, or
+`Red_Teaming_Multitasking_Counterfactuals_Code_Apache2.ipynb` and run the cells
+in order.
 
 
 ## Supplying an OpenAI API Key
