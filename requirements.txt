@@ -1,5 +1,5 @@
 jupyter
 openai
 pandas
-surgeo 
+surgeo
 vaderSentiment

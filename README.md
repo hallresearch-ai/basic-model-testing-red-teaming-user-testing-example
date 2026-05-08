@@ -88,7 +88,9 @@ client = OpenAI(api_key=api_key)
 
 Do not commit API keys to this repository.
 
-## License
+## Licenses
 
-This repository is licensed under the Apache License, Version 2.0. See
-`LICENSE` for details.
+Code in this repository is licensed under the Apache License, Version 2.0. See
+`CODE_LICENSE` for details. Other materials in this repository are licensed under the
+Creative Commons Attribution 4.0 International License (CC BY 4.0). See
+`MATERIAL_LICENSE` for details.
